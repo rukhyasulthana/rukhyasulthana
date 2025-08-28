@@ -1,3 +1,0 @@
-NAME: MOHAMMAD RUKHYA SULTHANA
-COURSE:BCA
-About GitHub :GitHub is a proprietary developer platform that provides cloud-based hosting for Git repositories and facilitates collaborative software development
